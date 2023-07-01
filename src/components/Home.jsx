@@ -120,7 +120,7 @@ const incrementVal=()=>{
             <li>Download</li>
             <li>|</li>
             <li>Sign up</li>
-            <a className='a' href="http://localhost:5173/login">Login</a>
+            <a className='a' href="https://spotifyreactresponsive.web.app/login">Login</a>
             
         </ul>
       </nav>
